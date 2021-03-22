@@ -1,4 +1,4 @@
-![](./fairmocracy_logo.svg)
+![](./images/fairmocracy_logo.svg)
 # f**ai**rmocracy.
 
 *Dieses Repository ist Teil unserer Bewerbung für die zehnte Runde des Prototype Fund.*
@@ -18,5 +18,5 @@ Die Plenarsitzungen werden seit Implementierung der Bundesrepublik protokolliert
 Der Open Discourse Datensatz umfasst 896.250 Redebeiträge aus den letzten 71 Jahren. Um aus diesen Datenmengen Schlüsse ziehen zu können, verwenden wir im ersten Schritt statistische Methoden, um z.B. den relativen Redeanteil von Frauen und Männern zu erfassen oder zu zählen, wie oft ein bestimmtes Wort in den Reden verwendet wird. Dies ist ein wichtiger erster Schritt, jedoch fehlt eine semantische Analyse des gesprochenen. So wird z.B. noch nicht berücksichtigt, dass ein Wort in positivem oder negativem Kontext stehen kann. Deshalb nutzen wir im zweiten Schritt tiefe neuronale Netze, die darauf spezialisiert sind, Wörter kontextualisiert zu betrachten. Dadurch erhalten wir einen Einblick in die eigentliche Semantik des Gesprochenen. Für jeden gesprochenen Satz wird mithilfe des Netzwerks ein Vektor erstellt. Darauf wenden wir Cluster-Algorithmen an, um Vektoren in Gruppen unterteilen, die unterschiedliche Themenfelder aufzeigen sollen. Dieses Vorgehen wird als Topic Modeling bezeichnet. Daneben entwickeln wir auch Klassifikationsmodelle für das Bestimmen von negativer und positiv konnotierter Sprache, um so gezielt zu untersuchen, wie inklusiv politische Sprache (geworden) ist.
 
 ## Aktueller Stand
-![Open Discourse Grafik](./wer_kommt_zu_wort.jpg)
+![Open Discourse Grafik](./images/wer_kommt_zu_wort_vergleich.png)
 Für unseren Prototyp haben wir uns bereits mit dem Datensatz vertraut gemacht. So haben wir in einem Jupyter Notebook einen Graphen von Open Discourse repliziert, in dem der relative Redeanteil von Frauen und Männern in den unterschiedlichen Fraktionen über die Jahre dargestellt ist. Die semantische Analyse der Texte, sowie eine interaktive Darstellung der Ergebnisse werden vollständig im Rahmen des Prototyps implementiert.
