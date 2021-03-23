@@ -1,9 +1,9 @@
 ![](./images/fairmocracy_logo.svg)
 # f**ai**rmocracy.
 
-*Dieses Repository ist Teil unserer Bewerbung für die zehnte Runde des Prototype Fund.*
+*Dieses Repository ist Teil unserer Bewerbung für die zehnte Runde des [Prototype Fund](https://prototypefund.de/).*
 
-Wie gerecht ist politische Sprache? Inklusive Sprache wird viel diskutiert, jedoch sind sich nach wie vor zu wenige Politiker:innen ihrer Vorbildfunktion bewusst, die sie mit jedem gesprochenen Wort ausüben.
+Wie gerecht ist politische Sprache? Inklusive Sprache wird viel diskutiert, aber sind sich genug Politiker:innen ihrer Vorbildfunktion bewusst, die sie mit jedem gesprochenen Wort ausüben? 
 
 Das Ziel von f**ai**rmocracy ist es, eine Auseinandersetzung mit Social Bias in der deutschen Sprache für alle zugänglich zu machen. Social Bias bezeichnet hierbei eine systematische Diskriminierung von Personengruppen. Wir untersuchen alle Reden, die seit 1949 im Bundestag gehalten wurden, auf syntaktische und semantische Merkmale der Diskriminierung. Der Open Discourse Datensatz stellt diese Reden in maschinenlesbarer Form öffentlich bereit. Für unsere Analysen verwenden wir statistische Methoden, sowie künstliche Intelligenz, die uns hilft, Wörter und ihre Semantik kontextualisiert zu betrachten.
 
