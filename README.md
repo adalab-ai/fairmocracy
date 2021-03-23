@@ -20,3 +20,6 @@ Der Open Discourse Datensatz umfasst 896.250 Redebeiträge aus den letzten 71 Ja
 ## Aktueller Stand
 ![Open Discourse Grafik](./images/wer_kommt_zu_wort_vergleich.png)
 Für unseren Prototyp haben wir uns bereits mit dem Datensatz vertraut gemacht. So haben wir in einem Jupyter Notebook einen Graphen von Open Discourse repliziert, in dem der relative Redeanteil von Frauen und Männern in den unterschiedlichen Fraktionen über die Jahre dargestellt ist. Die semantische Analyse der Texte, sowie eine interaktive Darstellung der Ergebnisse werden vollständig im Rahmen des Prototyps implementiert.
+
+## Das Team
+Wir, Angelie Kraft, Anton Wiehe und Pia Cuk, sind Teil des Start-Ups [AdaLab](https://adalab.ai/).
