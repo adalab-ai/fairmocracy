@@ -1,11 +1,11 @@
 ![](./images/fairmocracy_logo.svg)
 # f**ai**rmocracy.
 
-*Dieses Repository ist Teil unserer Bewerbung für die zehnte Runde des Prototype Fund.*
+*Dieses Repository ist Teil unserer Bewerbung für die zehnte Runde des [Prototype Fund](https://prototypefund.de/).*
 
-Wie gerecht ist politische Sprache? Inklusive Sprache wird viel diskutiert, jedoch sind sich nach wie vor zu wenige Politiker:innen ihrer Vorbildfunktion bewusst, die sie mit jedem gesprochenen Wort ausüben.
+Wie gerecht ist politische Sprache? Inklusive Sprache wird viel diskutiert, aber sind sich genug Politiker:innen ihrer Vorbildfunktion bewusst, die sie mit jedem gesprochenen Wort ausüben? 
 
-Das Ziel von f**ai**rmocracy ist es, eine Auseinandersetzung mit Social Bias in der deutschen Sprache für alle zugänglich zu machen. Social Bias bezeichnet hierbei eine systematische Diskriminierung von Personengruppen. Wir untersuchen alle Reden, die seit 1949 im Bundestag gehalten wurden, auf syntaktische und semantische Merkmale der Diskriminierung. Der Open Discourse Datensatz stellt diese Reden in maschinenlesbarer Form öffentlich bereit. Für unsere Analysen verwenden wir statistische Methoden, sowie künstliche Intelligenz, die uns hilft, Wörter und ihre Semantik kontextualisiert zu betrachten.
+Das Ziel von f**ai**rmocracy ist es, eine Auseinandersetzung mit Social Bias, also systematischer Diskriminierung von Personengruppen, in der deutschen Sprache und insbesondere im Kontext deutscher Politik für alle zugänglich zu machen. Dazu untersuchen wir Plenarprotokolle des Bundestags seit 1949 auf syntaktische und semantische Merkmale von Social Bias. Für unsere Analysen wenden wir auf den [Open Discourse Datensatz](https://opendiscourse.de/) statistische und Methoden der KI an.
 
 ## Die Herausforderung
 
@@ -20,3 +20,6 @@ Der Open Discourse Datensatz umfasst 896.250 Redebeiträge aus den letzten 71 Ja
 ## Aktueller Stand
 ![Open Discourse Grafik](./images/wer_kommt_zu_wort_vergleich.png)
 Für unseren Prototyp haben wir uns bereits mit dem Datensatz vertraut gemacht. So haben wir in einem Jupyter Notebook einen Graphen von Open Discourse repliziert, in dem der relative Redeanteil von Frauen und Männern in den unterschiedlichen Fraktionen über die Jahre dargestellt ist. Die semantische Analyse der Texte, sowie eine interaktive Darstellung der Ergebnisse werden vollständig im Rahmen des Prototyps implementiert.
+
+## Das Team
+Wir, Angelie Kraft, Anton Wiehe und Pia Cuk, sind Teil des Start-Ups [AdaLab](https://adalab.ai/).
